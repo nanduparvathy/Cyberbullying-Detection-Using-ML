@@ -21,14 +21,14 @@ To evaluate the classifiers, accuracy, recall, precision, and f-score are used a
 
 ## Results 
 
-Classifier           Precision   Recall   F1-score
+Classifier           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> Precision &nbsp;      > Recall  &nbsp;     > F1-score
 
-Multinomial NB         80.42       52.22     63.32
+Multinomial NB      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 80.42                           &nbsp;&nbsp; 52.22        &nbsp;&nbsp;63.32
 
-Decision Tree          77.33       93.02     85.45
+Decision Tree        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;77.33         &nbsp;&nbsp;93.02         &nbsp;&nbsp;&nbsp;85.45
 
-Logistic Regression    60.14       75.70     67.03
+Logistic Regression    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;60.14         &nbsp;&nbsp;75.70        &nbsp;&nbsp; 67.03
 
-SVM                    88.57       98.43     93.2
+SVM   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;88.57         &nbsp;&nbsp;98.43         &nbsp;&nbsp;&nbsp;93.2
 
 Achieved highest accuracy of 95.01% using SVM with an f1-score 93.24%.
